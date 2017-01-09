@@ -1,6 +1,8 @@
 #nodejs-database
 it is simple application to perform database operation using nodejs.
+i have written server side api's.
 steps:
+-install json
 -go to the particular directory
 -use a express framework in nodejs(npm install express).
 -install mysql(npm install mysql).
